@@ -1,4 +1,4 @@
-##Temp
+
 
 Module.register("MMM-Robinhood", {
     defaults:{
